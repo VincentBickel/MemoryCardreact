@@ -1,0 +1,9 @@
+  
+.memory {
+  border: 2px solid red;
+  display: flex;
+  flex-wrap: wrap;
+  width: 400px;
+  margin: auto;
+  user-select: none;
+}
